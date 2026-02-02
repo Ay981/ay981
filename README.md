@@ -21,13 +21,6 @@ I build **dynamic, responsive web applications** with a focus on clean code, smo
 Full-stack web app using React, Next.js, Laravel, and Tailwind CSS. Features **dynamic courses, quizzes, progress tracking, and secure authentication**.  
 💻 GitHub: [github.com/ay981/act](https://github.com/ay981/act)  
 
-### Food Recipe Platform (Nuxt 3 + Vue 3 + Hasura)  
-Dynamic recipe site with JWT auth, recipe CRUD, likes, bookmarks, ratings, comments, and advanced Postgres/Hasura features.  
-💡 Focus: Full-stack data handling & interactive UI  
-
-### Task Manager Web App  
-JavaScript productivity app for adding, filtering, and tracking tasks.  
-💡 Focus: Frontend interactivity & clean UI  
 
 ---
 
