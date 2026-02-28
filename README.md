@@ -17,7 +17,7 @@ I build **dynamic, responsive web applications** with a focus on clean code, smo
 
 ## 🚀 Featured Projects
 
-### [ACT eLearning Platform](https://act-elearning.aymenab.com)  
+### [ACT eLearning Platform](https://act-git-main-ay981s-projects.vercel.app)  
 Full-stack web app using React, Next.js, Laravel, and Tailwind CSS. Features **dynamic courses, quizzes, progress tracking, and secure authentication**.  
 💻 GitHub: [github.com/ay981/act](https://github.com/ay981/act)  
 
