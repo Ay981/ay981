@@ -1,58 +1,74 @@
-# 👋 Hi, I’m Aymen Abdulkérim
+# Hi, I’m Aymen Abdulkérim
 
-💻 **Computer Science student & Full-Stack Web Developer**  
-I build **dynamic, responsive web applications** with a focus on clean code, smooth UX, and scalable architecture. I love turning ideas into functional digital experiences.
-
----
-
-## 💡 Skills & Experience
-
-**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Laravel, PHP  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, GitHub, VS Code, Docker  
-**Programming & Problem Solving:** C++, Java, DSA  
+Computer Science student & Full-Stack Developer  
+I build scalable, high-performance web applications with a focus on clean architecture, smooth user experience, and real-world impact.
 
 ---
 
-## 🚀 Featured Projects
-
-### [ACT eLearning Platform](https://act-git-main-ay981s-projects.vercel.app)  
-Full-stack web app using React, Next.js, Laravel, and Tailwind CSS. Features **dynamic courses, quizzes, progress tracking, and secure authentication**.  
-💻 GitHub: [github.com/ay981/act](https://github.com/ay981/act)  
-
+## Portfolio
+https://aymenabdulkerim.dev  
 
 ---
 
-## 🌱 Currently Learning
-- React.js & Tailwind CSS for scalable front-end systems  
-- Object-Oriented Programming (OOP) in Java  
-- Data Structures & Algorithms (DSA) in C++  
+## Featured Work
+
+### ACT eLearning Platform
+Full-stack eLearning system built with Next.js, React, Laravel, and Tailwind CSS.
+
+Key Highlights:
+- Designed and implemented RESTful APIs for course and user management  
+- Built secure authentication system and protected routes  
+- Developed dynamic course and quiz system with progress tracking  
+- Optimized frontend rendering using Next.js for performance  
+
+Live: https://act-git-main-ay981s-projects.vercel.app  
+Code: https://github.com/ay981/act  
 
 ---
 
-## 🧩 Platforms & Competitive Programming
-| Platform | Profile |
-|----------|---------|
-| LeetCode | [@ay981](https://leetcode.com/ay981) |
-| Codeforces | [@ay981](https://codeforces.com/profile/ay981) |
+## Tech Stack
+
+Core: React, Next.js, Laravel  
+
+Frontend: Tailwind CSS, JavaScript, HTML, CSS  
+
+Backend: PHP, REST APIs  
+
+Databases: PostgreSQL, MySQL  
+
+Tools: Git, GitHub, Docker, VS Code  
+
+Programming: C++, Data Structures & Algorithms  
 
 ---
 
-## 📊 GitHub Stats
+## Currently Learning
+
+- Advanced system design and scalable backend architecture  
+- Advanced React patterns and frontend performance optimization  
+- Data Structures & Algorithms (problem solving and efficiency)  
+
+---
+
+## Competitive Programming
+
+LeetCode: https://leetcode.com/ay981  
+Codeforces: https://codeforces.com/profile/ay981  
+
+---
+
+## GitHub Stats
 ![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay981&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Freelance & Upwork
+## Freelance
 
-I am available for **freelance projects**. You can view my Upwork profile here:  
-[Upwork Profile](https://www.upwork.com/freelancers/~0187abe50d50e5a0da?mp_source=share)  
+Available for freelance and contract work in full-stack development.
 
-My Upwork profile highlights:  
-- Full-Stack Web Development (React, Next.js, Laravel, Tailwind CSS)  
-- Real projects like ACT eLearning & dynamic recipe platforms  
-- Professional communication and fast delivery  
+Upwork: https://www.upwork.com/freelancers/~0187abe50d50e5a0da  
 
----
-
+Services:
+- Full-stack web applications (React, Next.js, Laravel)  
+- Scalable system design and clean architecture  
+- Fast delivery and clear communication  
